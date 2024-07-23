@@ -2,21 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## View Website(https://www.icipamrutvahini.in/)
-##Install packeges
-###npm i "package"
-"bootstrap": "^5.3.3",
-    "googleapis": "^134.0.0",
-    "react": "^18.2.0",
-    "react-bootstrap": "^2.10.1",
-    "react-country-flag": "^3.1.0",
-    "react-dom": "^18.2.0",
-    "react-icons": "^5.0.1",
-    "react-image-gallery": "^1.3.0",
-    "react-pdf": "^7.7.1",
-    "react-responsive-modal": "^6.4.2",
-    "react-router-dom": "^6.22.1",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+## Install packeges
+### npm i "package"
+"bootstrap": "^5.3.3",\
+    "googleapis": "^134.0.0",\
+    "react": "^18.2.0",\
+    "react-bootstrap": "^2.10.1",\
+    "react-country-flag": "^3.1.0",\
+    "react-dom": "^18.2.0",\
+    "react-icons": "^5.0.1",\
+    "react-image-gallery": "^1.3.0",\
+    "react-pdf": "^7.7.1",\
+    "react-responsive-modal": "^6.4.2",\
+    "react-router-dom": "^6.22.1",\
+    "react-scripts": "5.0.1",\
+    "web-vitals": "^2.1.4"\
+    
 ## Available Scripts
 
 In the project directory, you can run:
